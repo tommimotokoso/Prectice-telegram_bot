@@ -1,2 +1,2 @@
-# Prectice-telegram_bot
+# Practice-telegram_bot
 exchange $$$
